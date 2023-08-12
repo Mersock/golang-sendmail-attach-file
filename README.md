@@ -1,0 +1,1 @@
+# golang-sendmail-attach-file
